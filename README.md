@@ -1,13 +1,13 @@
 
 <h1 align="center">
   <br>
-  <img src="./docs/AlpacaLogoWithBorder.svg" alt="Alpaca" width="500">
+  <img src="./docs/AlpacaWithBorder.svg" alt="Alpaca" width="500">
   <br>
   Alpaca
   <br>
 </h1>
 
-<h4 align="center">An operating environment built on the principles of UNIX, but made in PHP <small>(Seriously)</small></h4>
+<h4 align="center">A complete GUI server for OpenFujin made in Vue</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/vue-red">
